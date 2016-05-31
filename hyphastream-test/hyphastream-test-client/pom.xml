@@ -10,6 +10,5 @@
     </parent>
 
     <artifactId>hyphastream-test-client</artifactId>
-    <packaging>jar</packaging>
 
 </project>

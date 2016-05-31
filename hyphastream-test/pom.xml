@@ -7,8 +7,10 @@
     <groupId>com.hyphastream</groupId>
     <artifactId>hyphastream-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <modules>
         <module>hyphastream-test-client</module>
     </modules>
+
 </project>
