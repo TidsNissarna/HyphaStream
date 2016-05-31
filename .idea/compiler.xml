@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HyphaStream" target="1.5" />
+      <module name="hyphastream" target="1.5" />
       <module name="hyphastream-gui" target="1.5" />
     </bytecodeTargetLevel>
   </component>

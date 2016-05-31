@@ -4,7 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 
 /**
- * @author Tobias Nilsson <mailto:tobias.nilsson@so4it.com/>
+ * Created by TobNil on 2016-05-31.
  */
 public class SampleController {
 
