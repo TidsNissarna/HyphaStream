@@ -11,6 +11,6 @@ public class SampleController {
     public Label helloWorld;
 
     public void sayHelloWorld(ActionEvent event) {
-        this.helloWorld.setText("Hello World!");
+        this.helloWorld.setText("Hello2 World!");
     }
 }
