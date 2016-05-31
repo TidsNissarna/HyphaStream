@@ -7,6 +7,8 @@ The main purpose of this project is to create a video stream service that can se
 Clone the project and import the project into the IDEA with the maven pom.xml file.
 
 To compile the project use
+
+[source,bash]
 ---
 mvn clean install
 ---
