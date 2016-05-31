@@ -1,4 +1,4 @@
-package com.hyphastream;
+package com.hyphastream.gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

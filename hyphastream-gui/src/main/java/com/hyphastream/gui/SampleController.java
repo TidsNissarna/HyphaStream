@@ -1,4 +1,4 @@
-package com.hyphastream;
+package com.hyphastream.gui;
 
 import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
